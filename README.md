@@ -1,6 +1,6 @@
 # mre-ts-jest-stringifyContentPathRegex
 
-Minimal reproducible example for the `stringifyContentPathRegex` option of ts-jest documented [here](https://kulshekhar.github.io/ts-jest/docs/getting-started/options/stringifyContentPathRegex) not working as expected.
+Minimal reproducible example for the `stringifyContentPathRegex` option of ts-jest documented [here](https://kulshekhar.github.io/ts-jest/docs/getting-started/options/stringifyContentPathRegex) not working as expected. The tracking issue in ts-jest is https://github.com/kulshekhar/ts-jest/issues/4020.
 
 ## Reproduce the bug
 
